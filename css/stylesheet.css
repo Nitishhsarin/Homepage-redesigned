@@ -1,0 +1,97 @@
+/****************
+HEADING
+****************/
+
+header {
+  margin: 100px auto;
+}
+
+h1 {
+  display: block;
+  font-weight: 500;
+  font-family: 'Pacifico', cursive;
+  font-size: 3.5em;
+  text-align: center;
+  color: #E3E5E8;
+}
+
+
+li:first-child {
+  padding-top: 5px;
+}
+li:last-child {
+  padding-bottom: 4px;
+}
+
+/****************
+LISTS
+****************/
+
+.main h3 {
+  font-family: 'Pacifico', cursive;
+  font-weight: 500;
+  font-size: 1.28em;
+  width: 100%;
+  color: #E3E5E8;
+  text-align: center;
+  margin: 0;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  margin-bottom: 4px;
+
+}
+
+.main a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.main ul {
+  margin: 0;
+  padding: .125em 0;
+  text-align: center;
+  list-style: none;
+}
+
+.main section {
+  display: inline-block;
+  float: left;
+  margin: 20px 15%;
+  width: 70%;
+
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/****************
+COLORS
+****************/
+
+body {
+  background-color: #2A313B;
+  color: #EFF1F5;
+}
+
+body a, body a:visited {
+  color: #2A313B;
+}
+
+body a:hover {
+  color: #5A636F;
+}
+
+.main ul {
+  background-color: #E3E5E8;
+}
+
+.blue h3 {
+  background-color: #5A636F;
+}
+
+.red h3 {
+  background-color: #CC575D;
+}
