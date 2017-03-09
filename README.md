@@ -3,6 +3,11 @@ A default Landing Page for your Browser
 
 This minimal design webpage will serve as your main Landing page whenever you open your browser or create a New Tab. You can group together all your important and frequently visited links at one place!
 
+
+<p align="center">
+  <img src="MyLandingPage.png" alt="A Screenshot of my Landing Page"/>
+</p>
+
 To set things up, 
 
 1. Download this repository.
@@ -12,6 +17,3 @@ To set things up,
 5. Open Chrome Settings and under "On startup" Heading, select Open the new tab page. (Allow the extension to control the new tab behaviour)
 6. Enjoy :)
 
-<p align="center">
-  <img src="MyLandingPage.png" alt="A Screenshot of my Landing Page"/>
-</p>
