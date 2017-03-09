@@ -11,3 +11,7 @@ To set things up,
 4. Open the extension options and in the Redirection URL box, type the location of the downloaded index.html file.
 5. Open Chrome Settings and under "On startup" Heading, select Open the new tab page. (Allow the extension to control the new tab behaviour)
 6. Enjoy :)
+
+<p align="center">
+  <img src="MyLandingPage.png" alt="A Screenshot of my Landing Page"/>
+</p>
